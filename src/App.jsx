@@ -24,7 +24,7 @@ function App() {
       <footer className="app-footer">
         <p>
           Built with React. View source on{' '}
-          <a href="https://github.com/sherksiva/react-custom-components" target="_blank" rel="noreferrer">
+          <a href="https://github.com/sherksiva/react_custom_components" target="_blank" rel="noreferrer">
             GitHub
           </a>
           .
